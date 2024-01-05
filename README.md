@@ -17,8 +17,8 @@ The main objective of this project is to create a multilayered app for enables u
 | Melih Şahin ()|
 
 # Repos
-* Frontend
-* Android
+* Frontend - [SOPP-Frontend](https://github.com/Smart-Online-POS-Payment/SOPP-Frontend)
+* Android - [Android](https://github.com/Smart-Online-POS-Payment/Android)
 * IOS
 * Gateway
 * Payment
