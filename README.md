@@ -12,16 +12,15 @@ The main objective of this project is to create a multilayered app that enables 
 | Person                     |
 |----------------------------|
 | Kaan Şimşek (ksimsek19@ku.edu.tr)|
-| Mahmut Esat Pişkin()|
-| Omer Guler (omergguler)|
-| Melih Şahin ()|
+| Mahmut Esat Pişkin (mpiskin19@ku.edu.tr)|
+| Omer Guler (oguler19@ku.edu.tr)|
+| Melih Şahin (melihsahin21@ku.edu.tr)|
 
 # Repos
 * Frontend - [SOPP-Frontend](https://github.com/Smart-Online-POS-Payment/SOPP-Frontend)
 * Android - [Android](https://github.com/Smart-Online-POS-Payment/Android)
-* IOS
-* Gateway
-* Payment
-* Auth
-* Wallet
-* Notification
+* Gateway - [Gateway](https://github.com/Smart-Online-POS-Payment/gateway)
+* Payment - [Payment](https://github.com/Smart-Online-POS-Payment/Payment)
+* Auth - [Auth](https://github.com/Smart-Online-POS-Payment/Auth)
+* Wallet [Wallet](https://github.com/Smart-Online-POS-Payment/wallet)
+* Notification [Notification](https://github.com/Smart-Online-POS-Payment/notification)
